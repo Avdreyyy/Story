@@ -1,0 +1,15 @@
+h1{
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-color: paleturquoise;
+font-family: inherit;
+color: ghostwhite;
+font-size: 50}
+li{
+    text-decoration: overline;
+    text-align: center;
+    text-decoration-color: lightcoral;
+    font-family: serif;
+    color: lavenderblush;
+    font-size: 200%
+}

@@ -1,0 +1,16 @@
+h1{
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-color: lightcyan;
+font-family: inherit;
+color: lemonchiffon;
+font-size: 300%
+}
+li{
+    text-decoration: overline;
+    text-align: center;
+    text-decoration-color: lightcoral;
+    font-family: serif;
+    color: red;
+    font-size: 200%
+}
